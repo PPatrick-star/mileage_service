@@ -38,5 +38,4 @@ logs_admin/
 /dist/
 /nbdist/
 /.nb-gradle/
-build/
 
